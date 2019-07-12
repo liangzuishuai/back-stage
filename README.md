@@ -1,2 +1,1 @@
-# back-stage
-后台管理
+### npm install antd-modile --save
